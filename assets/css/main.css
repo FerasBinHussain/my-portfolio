@@ -52,14 +52,18 @@ header {
     margin: 1% auto;
 }
 
+.card {
+    height: 100%;
+}
+
 .btn-primary{
     background-color: #5e4485;
+    border-color: #5e4485;
 }
 
 .btn-primary:hover{
     background-color: gray;
 }
-
 /* Footer Section */
 footer{
     position:absolute;
