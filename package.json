@@ -6,15 +6,8 @@
   "scripts": {
     "deploy": "gh-pages -d dist"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/FerasBinHussain/my-portfolio.git"
-  },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/FerasBinHussain/my-portfolio/issues"
-  },
   "homepage": "https://ferasbinhussain.github.io/my-portfolio"
 }
